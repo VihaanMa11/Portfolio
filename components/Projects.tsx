@@ -6,7 +6,7 @@ import { ExternalLink, Github } from "lucide-react";
 
 const projects = [
   {
-    title: "E-commerce Platform",
+    title: "Univera",
     description: "A full-stack e-commerce solution with real-time inventory management",
     image: "/my-image.jpg",
     tags: ["Next.js", "TypeScript", "Tailwind CSS", "PostgreSQL"],

@@ -15,9 +15,9 @@ const experiences = [
     description: "Creating robust APIs and server-side applications with Node.js and modern databases"
   },
   {
-    title: "Clean Code Practices",
+    title: "UI/UX Design",
     icon: Code2,
-    description: "Writing maintainable, scalable, and well-documented code following industry best practices"
+    description: "Desinging clean and intuitive user interfaces with a focus on user experience"
   }
 ];
 

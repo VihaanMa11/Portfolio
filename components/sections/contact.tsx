@@ -16,7 +16,7 @@ export function Contact() {
         >
           <h2 className="text-3xl font-bold mb-6">Get In Touch</h2>
           <p className="text-lg text-muted-foreground max-w-2xl mx-auto">
-            Have a project in mind? Let's work together to bring your ideas to life
+            Have a project in mind? Let&apos;s work together to bring your ideas to life
           </p>
         </motion.div>
 

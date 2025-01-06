@@ -1,10 +1,10 @@
 export const projectsData = [
   {
-    title: "E-commerce Platform",
+    title: "Univera",
     description: "A full-stack e-commerce solution with real-time inventory management",
     image: "https://images.unsplash.com/photo-1557821552-17105176677c?ixlib=rb-4.0.3&auto=format&fit=crop&w=2089&q=80",
     tags: ["Next.js", "TypeScript", "Tailwind CSS", "PostgreSQL"],
-    github: "#",
+    github: "https://github.com/kihan2518B/Univera/",
     demo: "#"
   },
   {

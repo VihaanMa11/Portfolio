@@ -7,22 +7,22 @@ const skills = [
   {
     title: "Frontend Development",
     icon: Layout,
-    description: "React, Next.js, Tailwind CSS, TypeScript",
+    description: "React, HTML & CSS",
   },
   {
     title: "Backend Development",
     icon: Database,
-    description: "Node.js, Express, PostgreSQL, MongoDB",
+    description: "Node.js, MongoDB",
   },
   {
     title: "Tools & Methods",
     icon: Settings,
-    description: "Git, Docker, Agile, CI/CD",
+    description: "Git, Figma",
   },
   {
     title: "Languages",
     icon: Code2,
-    description: "JavaScript, TypeScript, Python, SQL",
+    description: "JavaScript, C++, Python",
   },
 ];
 

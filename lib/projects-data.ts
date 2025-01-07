@@ -5,7 +5,7 @@ export const projectsData = [
     image: "/Login - D.png",
     tags: ["Next.js", "TypeScript", "Tailwind CSS", "PostgreSQL"],
     github: "https://github.com/kihan2518B/Univera/",
-    demo: "#"
+    demo: "https://univera.vercel.app/sign-in"
   },
   {
     title: "Task Management App",

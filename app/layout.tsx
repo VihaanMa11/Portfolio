@@ -10,7 +10,7 @@ import type { Metadata } from 'next';
 const inter = Inter({ subsets: ['latin'] });
 
 export const metadata: Metadata = {
-  title: 'Full Stack Developer Portfolio',
+  title: 'Vihaan Malani Portfolio',
   description: 'Professional portfolio showcasing web development projects and skills',
   keywords: ['Full Stack Developer', 'Web Development', 'React', 'Next.js', 'Portfolio'],
 };
